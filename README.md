@@ -1,6 +1,6 @@
 # A Data Profiling Application using Streamlit
 **Technology Used** - VSCode,Streamlit
 **Programming Language** - Python
-![image](https://github.com/user-attachments/assets/8d56b517-09c5-45d1-80d3-e356cde10598)
-![image](https://github.com/user-attachments/assets/934a9a98-3c1f-4bed-a30e-0d8f6abcca2b)
-![image](https://github.com/user-attachments/assets/6a330955-07ed-4ed7-a390-5420393cbfb0)
+![image](https://github.com/user-attachments/assets/26f9f177-b68b-497b-ac80-973d4566bffd)
+![image](https://github.com/user-attachments/assets/b677f3b7-da56-4be9-8329-4b5be2a32d31)
+![image](https://github.com/user-attachments/assets/4de9462e-21be-461a-a6e0-1b8c194884be)
