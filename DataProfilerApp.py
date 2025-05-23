@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import sys
 import os 
-from ydata_profiling import ProfileReport
+from ydata-profiling import ProfileReport
 import streamlit.components.v1 as components
 
 st.set_page_config(page_title='Data Profiler',layout='wide')
